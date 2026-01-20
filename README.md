@@ -14,6 +14,14 @@ An AI-based system that:
 - Predicts future demand using machine learning
 - Provides recommendations to reduce over-purchasing and waste
 
+## Visual Overview
+
+### System Architecture
+![System Architecture](diagrams/system_architecture.png)
+
+### Conceptual Dashboard View
+![Dashboard Mockup](diagrams/dashboard_mockup.png)
+
 ## AI Technologies Used
 - Machine Learning (Regression)
 - Python
