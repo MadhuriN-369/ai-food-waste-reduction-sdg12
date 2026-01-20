@@ -17,10 +17,10 @@ An AI-based system that:
 ## Visual Overview
 
 ### System Architecture
-![System Architecture](diagrams/system_architecture.png)
+![System Architecture](diagrams/system_architecture.drawio.png)
 
 ### Conceptual Dashboard View
-![Dashboard Mockup](diagrams/dashboard_mockup.png)
+![Dashboard Mockup](diagrams/Dashboard_mockup.png)
 
 ## AI Technologies Used
 - Machine Learning (Regression)
